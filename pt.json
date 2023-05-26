@@ -1,0 +1,23 @@
+{
+    "description": "Tenho 21 anos e sou estudante de Engenharia da Computação, interessado em aprimorar e compartilhar meu conhecimento em Desenvolvimento de Software e nas tecnologias atuais do mercado.",
+    "workExperience": "Experiência Profissional",
+    "productDevelopmentIntern": "Estagiário de Desenvolvimento de Produtos na Ford Motor Company",
+    "internshipDate": "01/2023 - atual",
+    "internshipDescription": "Durante meu estágio como Desenvolvedor Fullstack de Produtos, tive a oportunidade de ser responsável por um projeto que visava reduzir custos e melhorar a eficiência dos processos internos, o que me permitiu desenvolver várias habilidades, incluindo:",
+    "skill1": "Experiência no desenvolvimento de arquiteturas de soluções eficientes e escaláveis, assim como na análise de requisitos;",
+    "skill2": "Proficiência no desenvolvimento de software, arquitetura de software e metodologias ágeis, o que me permitiu trabalhar de forma mais eficiente e produtiva em equipes;",
+    "skill3": "Fortes habilidades analíticas e de documentação;",
+    "skill4": "Conhecimento sólido em linguagens de programação como Java, JavaScript, TypeScript e frameworks como Angular;",
+    "skill5": "Capacidade de criar APIs REST utilizando o Spring Framework, Spring Boot e Spring Security;",
+    "skill6": "Expertise em modelagem de dados com PostgreSQL",
+    "skill7": "Proficiência em realizar testes funcionais e usar ferramentas como Docker, Jenkins e Terraform para CI/CD;",
+    "skill8": "Controle de versão de código e modelagem de fluxos de trabalho usando Git e Github;",
+    "skill9": "Utilização da Google Cloud Platform (GCP) para hospedar a aplicação e desenvolver soluções escaláveis e eficientes;",
+    "skill10": "Trabalho em um ambiente internacional que me permitiu aprimorar minhas habilidades em inglês e me comunicar de forma mais clara e eficaz com equipes de outros países;",
+    "skill11": "Conhecimento em autenticação e autorização, utilizando ferramentas como JWT e OAuth2;",
+    "skill12": "Testes unitários utilizando JUnit e Mockito",
+    "frontEndDeveloperVolunteer": "Voluntário Desenvolvedor Front-end na LIGA (Laboratório de Inovação de Games e Apps) - FACENS",
+    "volunteerDate": "04/2022 - 07/2022",
+    "volunteerDescription": "Como voluntário em uma das empresas internas da faculdade, trabalhei como Desenvolvedor Front-end utilizando Angular e Capacitor. Durante essa experiência, tive a oportunidade de desenvolver aplicações multiplataforma que funcionavam tanto em dispositivos móveis quanto na web, o que me permitiu explorar ainda mais as possibilidades da tecnologia e desafiar-me a criar soluções adaptáveis e acessíveis em diferentes plataformas."
+  }
+  

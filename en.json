@@ -1,0 +1,23 @@
+{
+    "description": "I'm 21 years old and a Computer Engineering student, interested in improving and sharing my knowledge in Software Development and current market technologies.",
+    "workExperience": "Work Experience",
+    "productDevelopmentIntern": "Product Development Intern at Ford Motor Company",
+    "internshipDate": "01/2023 - present",
+    "internshipDescription": "During my internship as a Fullstack Product Developer, I had the opportunity to be responsible for a project which focused on reducing costs and improving the efficiencies of internal processes and develop various skills, including:",
+    "skill1": "Experience in developing efficient and scalable solution architectures, as well as analyzing requirements;",
+    "skill2": "Proficiency in software development, software architecture, and Agile methodologies, which have allowed me to work more efficiently and productively in teams;",
+    "skill3": "Strong analytical and documentation skills;",
+    "skill4": "Solid knowledge of programming languages such as Java, JavaScript, TypeScript, and frameworks such as Angular;",
+    "skill5": "Ability to create REST APIs using the Spring Framework, Spring Boot, and Spring Security;",
+    "skill6": "Expertise in data modeling with PostgreSQL",
+    "skill7": "Proficient in performing functional testing and using tools like Docker, Jenkins, and Terraform for CI/CD;",
+    "skill8": "Code versioning and workflow modeling using Git and Github;",
+    "skill9": "Proficient in using the Google Cloud Platform (GCP) to host the application and develop scalable and efficient solutions;",
+    "skill10": "Working in an international environment that has enabled me to improve my English skills and communicate more clearly and effectively with teams from other countries;",
+    "skill11": "Knowledge in authentication and authorization, using tools such as JWT and OAuth2;",
+    "skill12": "Unit testing using JUnit and Mockito",
+    "frontEndDeveloperVolunteer": "Front-end Developer Volunteer at LIGA(Laboratório de Inovação de Games e Apps) - FACENS",
+    "volunteerDate": "04/2022 - 07/2022",
+    "volunteerDescription": "As a volunteer in one of the internal companies at the college, I worked as a Front-end Developer using Angular and Capacitor. During this experience, I had the opportunity to develop cross-platform applications that worked on both mobile devices and the web, which allowed me to explore the possibilities of technology even further and challenge myself to create adaptable and accessible solutions on different platforms."
+  }
+  
