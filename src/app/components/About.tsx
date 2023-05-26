@@ -1,3 +1,5 @@
+// ./src/app/components/About.tsx
+
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import logoDark from "../../../public/logo-dark.png";
 import logoWhite from "../../../public/logo-white.png";
@@ -17,7 +19,7 @@ export default function About({ appColor }: AboutProps) {
       </h2>
       <h3 className={`text-2xl py-2 ${textColorClass}`}>Full Stack Developer</h3>
       <p className={`text-md py-5 leading-8 ${textColorClass}`}>
-        I'm 21 years old and a Computer Engineering student, interested in
+        I&apos;m 21 years old and a Computer Engineering student, interested in
         improving and sharing my knowledge in Software Development and current
         market technologies.
       </p>
