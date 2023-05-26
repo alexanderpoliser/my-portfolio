@@ -1,5 +1,6 @@
 {
     "description": "Tenho 21 anos e sou estudante de Engenharia da Computação, interessado em aprimorar e compartilhar meu conhecimento em Desenvolvimento de Software e nas tecnologias atuais do mercado.",
+    "techonologies": "Tecnologias que eu trabalho",
     "workExperience": "Experiência Profissional",
     "productDevelopmentIntern": "Estagiário de Desenvolvimento de Produtos na Ford Motor Company",
     "internshipDate": "01/2023 - atual",
@@ -16,7 +17,7 @@
     "skill10": "Trabalho em um ambiente internacional que me permitiu aprimorar minhas habilidades em inglês e me comunicar de forma mais clara e eficaz com equipes de outros países;",
     "skill11": "Conhecimento em autenticação e autorização, utilizando ferramentas como JWT e OAuth2;",
     "skill12": "Testes unitários utilizando JUnit e Mockito",
-    "frontEndDeveloperVolunteer": "Voluntário Desenvolvedor Front-end na LIGA (Laboratório de Inovação de Games e Apps) - FACENS",
+    "frontEndDeveloperVolunteer": "Voluntário Desenvolvedor Front-end no LIGA (Laboratório de Inovação de Games e Apps) - FACENS",
     "volunteerDate": "04/2022 - 07/2022",
     "volunteerDescription": "Como voluntário em uma das empresas internas da faculdade, trabalhei como Desenvolvedor Front-end utilizando Angular e Capacitor. Durante essa experiência, tive a oportunidade de desenvolver aplicações multiplataforma que funcionavam tanto em dispositivos móveis quanto na web, o que me permitiu explorar ainda mais as possibilidades da tecnologia e desafiar-me a criar soluções adaptáveis e acessíveis em diferentes plataformas."
   }

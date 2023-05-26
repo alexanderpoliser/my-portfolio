@@ -1,4 +1,5 @@
 import Image from "next/image";
+import translations from '../../../en.json';
 
 const technologies = [
   { id: "java", 
@@ -107,7 +108,7 @@ export default function Technologies({ appColor }: TechnologiesProps) {
   return (
     <div className="flex flex-col">
       <h3 className="text-3xl text-indigo-600 text-center">
-        Technologies that I work with
+        {translations.techonologies}
       </h3>
       <div className="mt-10 flex flex-row flex-wrap gap-10 justify-center text-center">
         {technologies.map((tech) => (

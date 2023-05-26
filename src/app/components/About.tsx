@@ -1,9 +1,8 @@
-// ./src/app/components/About.tsx
-
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import logoDark from "../../../public/logo-dark.png";
 import logoWhite from "../../../public/logo-white.png";
 import Image from "next/image";
+import translations from '../../../en.json';
 
 interface AboutProps {
   appColor: string;
@@ -19,9 +18,7 @@ export default function About({ appColor }: AboutProps) {
       </h2>
       <h3 className={`text-2xl py-2 ${textColorClass}`}>Full Stack Developer</h3>
       <p className={`text-md py-5 leading-8 ${textColorClass}`}>
-        I&apos;m 21 years old and a Computer Engineering student, interested in
-        improving and sharing my knowledge in Software Development and current
-        market technologies.
+        {translations.description}
       </p>
       <div className="text-5xl flex justify-center gap-20 py-3 text-gray-600">
         <a
