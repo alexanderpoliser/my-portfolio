@@ -1,7 +1,11 @@
 import React from 'react';
 import translations from '../../../en.json';
 
-export default function WorkExperience({ appColor }) {
+interface WorkExperienceProps {
+  appColor: string;
+}
+
+export default function WorkExperience({ appColor }: WorkExperienceProps) {
   const textColorClass = appColor === "bg-gray-950" ? "text-slate-300" : "text-gray-800";
 
   return (

@@ -3,8 +3,11 @@ import logoDark from "../../../public/logo-dark.png";
 import logoWhite from "../../../public/logo-white.png";
 import Image from "next/image";
 
+interface AboutProps {
+  appColor: string;
+}
 
-export default function About({ appColor }) {
+export default function About({ appColor }: AboutProps) {
   const textColorClass = appColor === "bg-gray-950" ? "text-slate-300" : "text-gray-800";
 
   return (

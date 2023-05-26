@@ -97,7 +97,11 @@ const technologies = [
   },
 ];
 
-export default function Technologies({ appColor }) {
+interface TechnologiesProps {
+  appColor: string;
+}
+
+export default function Technologies({ appColor }: TechnologiesProps) {
   const textColorClass = appColor === "bg-gray-950" ? "text-slate-300" : "text-gray-800";
 
   return (
