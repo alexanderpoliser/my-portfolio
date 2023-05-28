@@ -4,6 +4,7 @@ import { BsSunFill, BsFillMoonFill } from "react-icons/bs";
 import About from "./components/About";
 import WorkExperience from "./components/WorkExperience";
 import Technologies from "./components/Technologies";
+import AcademicEducation from "./components/AcademicEducation";
 
 
 export default function Home() {
@@ -54,8 +55,12 @@ export default function Home() {
           <Technologies appColor={appColor}/>
         </section>
 
-        <section className="pb-10">
+        <section>
           <WorkExperience appColor={appColor}/>
+        </section>
+
+        <section className="pb-10">
+          <AcademicEducation appColor={appColor} />
         </section>
       </main>
     </div>
