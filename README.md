@@ -1,6 +1,6 @@
 ## TO DO
 - [ ] Implementar a tradução para pt-br
-- [ ] Adicionar a seção de formação acadêmica
+- [x] Adicionar a seção de formação acadêmica
 - [ ] Adicionar a seção de projetos pessoais
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
