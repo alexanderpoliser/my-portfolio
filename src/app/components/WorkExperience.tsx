@@ -11,7 +11,7 @@ export default function WorkExperience({ appColor }: WorkExperienceProps) {
   return (
     <div>
       <div className="flex-row">
-        <h3 className={`text-3xl text-indigo-600 text-center mt-10 ${textColorClass}`}>
+        <h3 className={`text-3xl text-indigo-600 text-center mt-10`}>
           {translations.workExperience}
         </h3>
         <div className="text-left">
